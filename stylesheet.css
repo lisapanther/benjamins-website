@@ -2,13 +2,13 @@ body { overflow-x:hidden;
 }
 
 .page {
-   margin:auto;
+   margin: 50px auto 0;
    width: 980px;
 }
 
 #content {
   position:relative;
-  height:25em;
+  height: 33em;
   width:45em;
   overflow:hidden;
 }
@@ -20,7 +20,7 @@ body { overflow-x:hidden;
 }
 
 .images {
-  height:25em;
+  height: 33em;
   width:50em;
   margin-top: 3%;
   margin-right:3%;
